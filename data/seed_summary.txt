@@ -1,0 +1,10 @@
+Medical Harmfulness
+Financial Harmfulness
+Legal Harmfulness
+Technical Harmfulness
+Relationship Harmfulness
+Educational Harmfulness
+Emotional Manipulation Harmfulness
+Violent Harmfulness
+Drug-related Harmfulness
+Self-harm Harmfulness

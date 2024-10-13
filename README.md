@@ -35,7 +35,6 @@ Evaluate model safety with LlamaGuard on CatQA and BeaverTails:
 ```bash
 bash scripts/eval_catqa.sh
 bash scripts/eval_beavertails.sh
-bash scripts/eval_mmlu.sh
 ```
 
 Evaluate model utility on MMLU: 
